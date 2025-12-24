@@ -1,7 +1,21 @@
 ---
-title: "Website"
+title: "French Revolution"
 ---
 
-This is a Quarto website.
+### Prologue: What is the French Revolution?
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The French Revolution took place in 1789-1799 as a reaction to the monarchy's irresponsible rule. The revolution chnaged many times over the years but one thing remained a constant over the years, their quest for equality and their rights as citizens of France. However, that came with many difficulties, some internal like ensuring reforms and dealing with people defying the revolution, as well as external forces like Austria coming to try and help the dying monarchy of Louis XV and Marie Antonette.
+
+### What started the beginning of the French Revolution?
+
+The king of France during that time was Louis XV, who had taken over at the age of 15 after his fathers death and was arranged to Marie Antoinette. Louis XV was not a great ruler of france like his predecessors. His leadership had caused to go into more debt than it already was, squandering it on extravagant purchases. As well as helping America, not because of kindness but because he wanted to get get back at England to avenge his father. 
+
+His indecision of important matters of his country caused many issues. The people fed up with his rule took a stand and formed a mob at the Bastille. They killed everyone including the one in charge of that establishment, leaving a massive path of bloodshed. This event helped to inspire Jean Paul Marat, a journalist who helped to garner more people to the cause of the revolution using his papers, as well as  William Robespierre, one of the most important people of the revolution which contributed to the Declaration of the Rights of Man and one of the most bloodiest parts of the revolution.
+
+### What happened during the french revolution, and what reforms were made during that time?
+
+Text will be added here...
+
+### What happened after the revolution and what happened to the people
+
+### How does the french revolution affect history and how does it affect today?
