@@ -4,29 +4,36 @@ title: "The French Revolution (1789-1799)"
 
 ### Prologue: Prior to the Revolution
 
-The country of France was reeling from the seven years' war, and the prospect of the American revolution intrigued them. They supported America due to its possibility of being able to harm Britain. France formed an alliance with America for a couple of reasons, which was political power, interest in its ideals and to get back at their enemy, Britain.
+Great Britain and France fought for control of their colonies, like India and America, from 1754 to 1763. The so-called Seven Years War ended with Great Britain taking over a large majority of the French colonies. When the American Revolution started in 1775, King Louis XVI of France was willing to support America because it would harm Great Britain and he could avenge his grandfather's loss during the Seven Years War.
 
 :::: {.columns}
 ::: {.column width="38%"} 
-![](images/king_louis_xvi_small.png)
+![exhibits.stanford.edu/frenchrevolution](images/king_louis_xvi_small.png)
 :::
 
 ::: {.column width="60%"}
-King Louis XV's grandson assumed the throne in 1774 at age 19. The grandson, King Louis XVI, was educated but not properly prepared to govern because he was not expected to become king. He was the third in line for the crown until his two older brothers, and father died of tuberculosis. The king soon married a princess for a political alliance with Austria.
+King Louis XVI assumed the throne in 1774 at age 19. Although King Louis XVI was educated, he was not properly prepared to govern because he was not expected to become king. He was third in line for the crown until his two older brothers and father died unexpectedly of tuberculosis. 
+
+King Louis XVI married Marie Antoinette to form a political alliance with Austria. She was known for her beauty and was initially favored by the people of France. 
 :::
 ::::
 
 ### What sparked the French Revolution?
 
-King Louis XVI was not a great ruler of france like his predecessors. His leadership had caused to go into more debt than it already was, squandering it on extravagant purchases. As well as helping America, not because of kindness but because he wanted to get get back at England to avenge his father. 
+King Louis XVI was not a great ruler, and his decisions with the country's money created problems for France. The country had accumulated debt from the Seven Years War and the money he lent to America added to the debt. He and Queen Marie Antoinette spent money on extravagant purchases. They moved from Paris to a lavish palace in Versailles where he and the Queen wasted money on unnecessary things, like parties, clothes, and games.
 
-King Louis XVI's indecision of important matters of his country created many roblems. 
+With the debt growing more and more, the king decided to impose heavy taxes onto the people. The prices of food started to soar due to limited food supply from bad harvest and harsh taxes. A single loaf of bread could cost as much as their wages which led people to starve.
+
+The situation became so dire King Louis XVI called a meeting of the Estates-General, which had not happened since 1614. 
+
+- the three estates, how it was imbalanced
+- third estate was silenced
 
 ### What happened during the French revolution?
 
 The people fed up with his rule took a stand and formed a mob at the Bastille. They killed everyone including the one in charge of that establishment, leaving a massive path of bloodshed. This event helped to inspire Jean Paul Marat, a journalist who helped to garner more people to the cause of the revolution using his papers, as well as  William Robespierre, one of the most important people of the revolution which contributed to the Declaration of the Rights of Man and one of the most bloodiest parts of the revolution.
 
-![](images/storming_the_bastille.png){fig-align="center"}
+![exhibits.stanford.edu/frenchrevolution](images/storming_the_bastille.png){fig-align="center"}
 
 After the seige of the Bastille, a group of people banded together to create a national assembly. This assembly created The Declaration of the Rights of Man,which was inspired by the Magna Carta and The Declaration of Independence. The Declaration of the Rights of Man helped to lay the framework for the future laws of France.
 
@@ -41,7 +48,7 @@ During these events The National Assembly was working on implementing different 
 
 ### The French Revolution's Long-Term Impact
 
-The French revolution...
+The French revolution years later had a significant impact on the world. It gave hope to a world filled with tyranny, the revolution spawned many different beliefs and ideologys through out many places. The revolutionh had inspired the independence movement in latin america due to napoleonic residence of spain. Most of the countries declared their independence in the 1820's. Today the French revolution still has an impact , it established concepts in modern democracy that are incredibly important. It also stands as a reminder of the dangers of the radicalism that had spawned mass bloodshed through-out France.
 
 ### Conclusion
 
