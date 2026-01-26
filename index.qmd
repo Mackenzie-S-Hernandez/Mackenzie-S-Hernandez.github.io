@@ -2,6 +2,8 @@
 title: "The French Revolution (1789-1799)"
 ---
 
+![exhibits.stanford.edu/frenchrevolution](images/Liberty_Leading_the_People%20-%20Eugene%20Delacroix%20-%20small.png)
+
 ### Prologue: Prior to the Revolution
 
 Great Britain and France fought for control of their colonies, like India and America, from 1754 to 1763. The so-called Seven Years War ended with Great Britain taking over a large majority of the French colonies. When the American Revolution started in 1775, King Louis XVI of France was willing to support America because it would harm Great Britain and he could avenge his grandfather's loss during the Seven Years War.
@@ -42,6 +44,16 @@ Austria tried to help save the dying monarchy by declaring war against the revol
 ### Short-Term Impacts from the French Revolution
 
 During these events The National Assembly was working on implementing different laws that would help benefit the French citizens. One of these laws was the outlawing of religion, this was due to the church and the monarchy working very closely together. The church was in a high power position, because of their connection and influence over the country. The church also clashed against what the revolution believed in, it viewed the revolution as an enemy to its authority. This affected another law in which it was stated that education would be available to all. However, this was hard to do since there was a lack of educators. Prior to the revolution the church was responsible for providing staff for schools. Many of the schools were owned and staffed by the church. In regions were the school system was succesful, the people were able to find jobs. However, in regions where it wasn't as sucessful there was a major funding crisis for education.   
+
+:::: {.columns}
+::: {.column width="50%"} 
+![exhibits.stanford.edu/frenchrevolution](images/Marie_Antoinette.png)
+:::
+
+::: {.column width="50%"}
+![exhibits.stanford.edu/frenchrevolution](images/guillotine.png)
+:::
+::::
 
 But the revolution didn't fix everything immediately, an example of this would be the frequently amount of bread shortages. Despite efforts to fix this, bread prices would still remain high. The price of bread would be the amount of money given as the daily wage. However, on September 29th, 1793 a law was passed that would help prevent severe inflation. This law was called "The Maximum Law", it put a price cap on how much the price could rise. However this would also breed a bunch of failure being that it worsened food shortages, and penalties. Another example of one of the failed reforms of the republic was the abolition of the feudal system. This made it so that previously private properity could now be used by the public. However, it was abused by peasants which led to mass deforestation. This affected the crop yields since the forest helped with pollination and water and also contributed to the soaring prices. 
 
